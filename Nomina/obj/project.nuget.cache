@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "pX6n/lr0LFR8bZ6eMpRKrZjXUB7+jZrrKRvLTLJ5nMw3Aboq6xgKKNqhgk2a1sbsp73p3/LZb/o0epZ8Tdg1mg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\dtach\\Desktop\\Nomina-master\\Nomina-master\\Nomina\\Nomina.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\dtach\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

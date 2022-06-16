@@ -1,0 +1,17 @@
+C:\Users\dtach\Desktop\Nomina-master\Nomina-master\Nomina\bin\Debug\net6.0\Nomina.exe
+C:\Users\dtach\Desktop\Nomina-master\Nomina-master\Nomina\bin\Debug\net6.0\Nomina.deps.json
+C:\Users\dtach\Desktop\Nomina-master\Nomina-master\Nomina\bin\Debug\net6.0\Nomina.runtimeconfig.json
+C:\Users\dtach\Desktop\Nomina-master\Nomina-master\Nomina\bin\Debug\net6.0\Nomina.dll
+C:\Users\dtach\Desktop\Nomina-master\Nomina-master\Nomina\bin\Debug\net6.0\ref\Nomina.dll
+C:\Users\dtach\Desktop\Nomina-master\Nomina-master\Nomina\bin\Debug\net6.0\Nomina.pdb
+C:\Users\dtach\Desktop\Nomina-master\Nomina-master\Nomina\obj\Debug\net6.0\Nomina.csproj.AssemblyReference.cache
+C:\Users\dtach\Desktop\Nomina-master\Nomina-master\Nomina\obj\Debug\net6.0\Nomina.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dtach\Desktop\Nomina-master\Nomina-master\Nomina\obj\Debug\net6.0\Nomina.AssemblyInfoInputs.cache
+C:\Users\dtach\Desktop\Nomina-master\Nomina-master\Nomina\obj\Debug\net6.0\Nomina.AssemblyInfo.cs
+C:\Users\dtach\Desktop\Nomina-master\Nomina-master\Nomina\obj\Debug\net6.0\Nomina.csproj.CoreCompileInputs.cache
+C:\Users\dtach\Desktop\Nomina-master\Nomina-master\Nomina\obj\Debug\net6.0\Nomina.dll
+C:\Users\dtach\Desktop\Nomina-master\Nomina-master\Nomina\obj\Debug\net6.0\ref\Nomina.dll
+C:\Users\dtach\Desktop\Nomina-master\Nomina-master\Nomina\obj\Debug\net6.0\Nomina.pdb
+C:\Users\dtach\Desktop\Nomina-master\Nomina-master\Nomina\obj\Debug\net6.0\Nomina.genruntimeconfig.cache
+C:\Users\dtach\Desktop\Nomina-master\Nomina-master\Nomina\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\dtach\Desktop\Nomina-master\Nomina-master\Nomina\obj\Debug\net6.0\Nomina.csproj.CopyComplete
