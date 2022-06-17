@@ -122,7 +122,7 @@ namespace Nomina
 
         public static void SaveToFile(List<Employee> employees)
         {
-            string FileName = "D:\\Employee.txt";
+            string FileName = "C:\\Employee.txt";
             try
             {
                 string json = JsonConvert.SerializeObject(employees, Formatting.Indented);
@@ -131,7 +131,7 @@ namespace Nomina
             catch (Exception e)
             {
                 Console.WriteLine("Error to save the program", e);
-                Console.ReadKey();
+
             }
         }
     }
