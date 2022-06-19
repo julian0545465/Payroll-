@@ -127,6 +127,7 @@ namespace Nomina
             {
                 string json = JsonConvert.SerializeObject(employees, Formatting.Indented);
                 File.WriteAllText(FileName, json);
+                Console.WriteLine("The data was saved");
             }
             catch (Exception e)
             {
