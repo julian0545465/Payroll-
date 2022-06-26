@@ -72,8 +72,10 @@ namespace Nomina
             }
             catch (FormatException e)
             {
-                Console.WriteLine("El value no is valid.\nInsert other number value", e);
+                 Console.WriteLine("El value no is valid.\nSelect enter to start again", e);
                 Console.ReadKey();
+                Console.WriteLine("");
+                return ReadEmployee(employee);
             }
 
             return employee;
